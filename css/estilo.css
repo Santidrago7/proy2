@@ -1,0 +1,46 @@
+.principal
+{
+    background-color: darkblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+.caja{
+    background-color: darkcyan;
+    width: 500px;
+    height: 700px;
+    margin: 5px;
+    
+}
+
+.caja1{
+    background-color: goldenrod;
+    width: 500px;
+    height: 235px;
+    display: flex;
+    flex-direction: row;
+}
+.caja2{
+    background-color: lime;
+    width: 500px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.c-h
+{
+    background-color: cyan;
+    width: 160px;
+    height: 210px;
+    margin: 5px;
+}
+.c-l{
+    background-color: crimson;
+    width: 490px;
+    height: 70px;
+    margin: 5px;
+    
+
+}
